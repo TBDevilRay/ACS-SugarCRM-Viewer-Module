@@ -7,9 +7,8 @@
 
 	function createViewingSession() {
 		$str_post = '{"render":{"html5":{"alwaysUseRaster":false}}}';
-		$endpoint = ACS_API_URL;
 		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, $endpoint);
+		curl_setopt($ch, CURLOPT_URL, ACS_API_URL);
 		curl_setopt($ch, CURLOPT_POST, true);
 	    curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 	    	'acs-api-key: '.ACS_API_KEY,
@@ -85,9 +84,7 @@
 	putDocument($viewing_session, $file_size, $upload_location );
 
 	echo '<script type="text/javascript" language="javascript"> 
-		
 		window.location.href = "'.VIEWER_URL.'/?key='.ACS_API_KEY.'&viewingSessionId='.$viewing_session.'&logoimage=&viewertype=html5&viewerwidth='.VIEWER_WIDTH.'&viewerheight='.VIEWER_HEIGHT.'&upperToolbarColor='.UPPER_TOOLBAR_COLOR.'&lowerToolbarColor='.LOWER_TOOLBAR_COLOR.'&bottomToolbarColor='.BOTTOM_TOOLBAR_COLOR.'&backgroundColor='.BACKGROUND_COLOR.'&fontColor='.FONT_COLOR.'&buttonColor='.BUTTON_COLOR.'";
-
 	</script>'; 
 ?>
 

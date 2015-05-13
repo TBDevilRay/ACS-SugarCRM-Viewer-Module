@@ -1,0 +1,117 @@
+The following service agreement can be found at http://www.accusoft.com/cloud-services/service-agreement-page/
+
+
+ACCUSOFT® CLOUD SERVICES™ AGREEMENT
+
+You are signing up for an account (“Account”) to use the Accusoft® Cloud Services™ (“Service”) offered by Accusoft Corporation (“Accusoft”). By signing up without providing a Company Name, you agree that you are bound by the terms and conditions of this Accusoft® Cloud Services™ Agreement (the “Agreement”). Or by signing up and providing a Company Name, you expressly agree that you have the authority to contractually bind that organization or entity to this Agreement and you agree that the organization or entity is bound by this Agreement. In this Agreement, the words “we,” “us,” “our,” and “ours” refer to Accusoft. The words “user,” “you”, “your”, and “yours” refer to the individual (if no Company Name is provided) or organization or entity (if a Company Name is provided) signing up for the Service. You must agree to the terms of this Agreement before using any of the Service, and the very act of using any of the Service confirms your acceptance of the terms of this Agreement.  We may change the Service and/or this Agreement at any time at our sole discretion, and if you continue using the Service after a change, that will mean you have agreed to the change.  You may see the current terms of this Agreement at any time by going to: http://accusoft.com/cloud-services/service-agreement-page/. This Agreement will remain in force until Accusoft or you terminate it.
+
+Definitions
+Accusoft® Cloud Services™- The name for Accusoft's array of cloud services.
+Viewer - A cloud-hosted version of Accusoft's Prizm® Content Connect™ product used for embedding a HTML5 or Flash Content viewer directly on a webpage.
+Image - PrizmImage.com: Accusoft's website and service allowing users to submit their images to utilize our advanced compression and optimization technology.
+Content - The data, documents, images, files, and other information of any kind that you upload or make public using the Service.
+General Terms
+THE SERVICE IS PROVIDED "AS IS", AT YOUR OWN RISK, WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND. WE ALSO DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+You must provide your true name, a valid email address, and any other information requested in order to complete the signup process and create your Account.
+Your Account may only be used by one person or, if a company or other entity Account, it may only be used by employees of the entity.
+You are responsible for maintaining the security of your Account and password. Accusoft is not liable for any loss or damage from your failure to maintain adequate security of your Account.
+You are responsible for all Content uploaded and activity that occurs under your Account, even if the Content is uploaded by another person or organization.
+Any information that you provide to Accusoft is subject to our Privacy Policy, which governs our collection and use of your information. You agree that through your use of the Service you consent to the collection and use (as set forth in the Privacy Policy) of this information.
+As part of providing you the Service, we may need to provide you with certain communications, such as Service announcements and administrative messages. These communications are considered part of the Service, which you may not be able to opt-out from receiving.
+You may not use the Service for any illegal, inappropriate or unauthorized purpose. In your use of the Service, you must not violate any laws (including but not limited to copyright laws).
+Accusoft offers a free version of this Service as well as fee-based versions of this Service. There may be limits placed on all of these versions and if such limits are exceeded it is considered a violation of this Agreement. All versions of this Service are governed by all the terms of this Agreement except the “Free Version Unique Conditions” section below only governs the free version and the “Fee-Based Version Unique Conditions” section below only governs the fee-based premium versions.
+As long as this Agreement is in force and you are complying with all of its terms, we give you permission to use the Service. Otherwise you are not permitted to use the Service.
+If you violate any of these agreement terms, we may, in our sole discretion, terminate your Account and this Agreement. While we try to prohibit illegal, inappropriate or unauthorized conduct and Content on the Service, you understand and agree that we are not responsible for the Content uploaded to, and accessed by, the Service, and it is possible that you may be exposed to such Content. You agree to use the Service at your own risk.
+
+Copyright and Content Ownership
+You acknowledge and agree that Accusoft owns all rights, title and interest in the Service in all its versions and forms. The look and feel of the Service, as well as software code written to create the Service, is copyrighted material owned by Accusoft, and all rights are reserved. You may not duplicate, copy, or reuse any portion of any material comprising the Service except according to the terms of this Agreement without express written permission from Accusoft.
+Accusoft claims no intellectual property rights over the Content you upload to the Service. You agree that Accusoft is permitted, but not required, to make a limited number of copies of Content solely as required for the correct operation of the Service and for backup and reliability purposes.
+It is Accusoft’s policy to respond to clear notices of alleged copyright infringement. If you have any questions or concerns, please refer to our policy statement.
+Version Allowances and Limits
+Reference table for version allowances and per month limits:
+
+Viewer	Image
+Free	6,000 page views /
+Ads possible after 3,000 page views	1,000 images
+Premium	6,000 page views
+Less Branding
+No ads	10,000 images
+Elite	20,000 page views
+Less Branding
+No ads	50,000 images
+Contracted	Negotiated	Negotiated
+ 
+
+Free Version Unique Conditions
+
+These conditions apply to the use of the free version only.
+
+Technical Support
+Technical support is available through our web based community site:  http://community.accusoft.com/.
+
+Modifications to Service for Viewer Free & Premium Versions
+If your embedded Viewer page views exceed 6,000 page views per month, then Accusoft reserves the right in its sole determination either to offer you to upgrade your Service to the Viewer Elite Version, or with no less than (10) days' notice disable your Account until you can reduce your number of page views.
+Accusoft reserves the right to randomly insert advertisements and ‘pop-ups’ at any time within the viewer between documents, or pages within a document, intended not to obstruct use for more than 5 seconds. This will never occur on any Viewer/Show free account using less than 3,000 page views per month, and never in any fee based account (Premium, Elite or Contracted). Accusoft will provide a minimum of thirty (30) days' notice prior to invoking this right.
+Modifications to Service for Image Free Version
+If your Image usage exceeds 1,000 images processed per month, then Accusoft reserves the right in its sole determination either to offer you to upgrade your Service to the Image Premium Version, or with no less than (10) days' notice disable your Account until you can reduce your number of pages.
+
+Fee Based Version Unique Conditions
+
+These terms apply to the Fee Based Versions only and require you to click the button selecting a Fee Based Version.
+
+Premium or Elite purchase for any one service provides those level allowances and limits for all services.
+
+Technical Support
+Technical support is available, by means described after purchase, Monday through Friday between the hours of 9 AM and 6 PM Eastern time, excluding Accusoft holidays when the Accusoft offices are closed, and through our web based community.
+
+Modification to Service for Image Premium Version
+If your usage of Image Premium Service exceeds 10,000 images processed per month, then Accusoft reserves the right in its sole determination either to offer you to upgrade your Service to the Elite Level, or with no less than thirty (30) days' notice disable your Account until you can reduce your number of images processed.
+
+Modification to Service for Viewer Elite Versions
+If your usage of the Viewer Elite Service exceeds 20,000 page views per month, then Accusoft reserves the right in its sole determination either to offer you to upgrade your Service to the Contracted Level, or with no less than thirty (30) days' notice disable your Account until you can reduce your number of page views.
+
+Modification to Service for Image Elite Version
+If your usage of Image Elite Service exceeds 10,000 images processed per month, then Accusoft reserves the right in its sole determination either to offer you to upgrade your Service to the Contracted Level, or with no less than thirty (30) days' notice disable your Account until you can reduce your number of images processed.
+
+Contracted Level Service
+Contact Accusoft Sales at sales@accusoft.com or at 813-875-7575 x1 to upgrade your Service to Contracted Level Service with unlimited bandwidth, unlimited page views, and telephone or email technical support during Accusoft business hours. 24/7/365 technical support is also available. This Fee-Based Service requires a separate written addendum to this Service Agreement, signed by both parties, and will involve additional fees as negotiated by both parties.
+
+Payment, Refunds
+A valid credit card or PayPal account is required to establish an Account.
+We bill for the Service in advance on an annual or monthly basis, and your payment is non-refundable. You will not receive any refund or credit for partial months of Service, nor for Service outages, nor will you receive a refund for any period in which you do not use the Service. If the payment method you provide us declines our charge, we have the right to suspend access to your Account until you provide valid payment, and we may terminate your Account.
+Our fees do not include any taxes, levies, or duties imposed by taxing authorities. You are responsible for paying all such taxes, levies, or duties.
+Other Conditions for All Versions
+
+Your use of the Service is at your sole risk. The Service is provided on an “as is” and “as available” basis. Accusoft has no liability to you or to any other party for any damages arising from any modification, outage, suspension, unavailability or discontinuance of this Service or of your Content.
+You are not permitted to modify, adapt, disassemble, decompile, reverse engineer or hack the Service or modify another website in any way that might imply that it is associated with the Service, Accusoft, or any other Accusoft service, product, or technology.
+You are not permitted to remove or obstruct Accusoft or Prizm marks in any circumstance or manner.
+You agree not to reproduce, duplicate, copy, sell, resell, license, sublicense or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
+Accusoft does not pre-screen uploaded Content. We may, and we have the right to, but we have no obligation to, refuse or remove Content and terminate Accounts using Content that we determine in our sole discretion is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or that violate any party’s intellectual property rights or this Agreement.
+The Service provides features that allow you to make your Content public. There are many things that users may do with that Content (for example, copy it, modify it, share it). Please consider carefully what you choose to make public. Accusoft has no responsibility for those activities by users.
+We may terminate inactive Accounts. We may permanently delete inactive uploaded Content or uploaded Content from inactive Accounts.  In either case we will try to let you know 30 days in advance.  You can appeal the Account termination or Content deletion to us during that 30 day period.  If you do not appeal, or if we reject your appeal, we have no obligation to help you retrieve any Content and we are not liable to you or to any other party for any damages arising from this permanent deletion of Content.
+The Service may contain links to third-party websites or resources. Accusoft does not endorse and is not responsible or liable for their availability, accuracy, the related Content, products, or services.
+Prices of all Services, including but not limited to subscription plan fees for the Services, are subject to change with thirty (30) days notice from us. Such changes will be posted to http://www.accusoft.com/cloud-services/viewer/pricing/ and delivered to the contact email on file with Accusoft.
+You understand that the Service includes an error and usage reporting mechanism that automatically exchanges error and usage information with Accusoft servers. This information helps Accusoft support you if you experience problems with the Service and helps Accusoft if it makes improvements to the Service. This error and usage reporting mechanism does not disrupt your usage of the Service.
+Verbal, physical, written or other abuse (including threats of abuse or retribution) of any other User or of any Accusoft employee, director, shareholder or officer will result in immediate termination of your Account.
+Accusoft does not warrant (i) that the Service will meet your specific requirements, (ii) that the Service will be uninterrupted, timely, secure, or error-free, (iii) that the results that may be obtained from the use of the Service will be accurate or reliable, (iv) that the quality of any products, services, information, or other material purchased or obtained by you from Accusoft will meet your expectations, nor (v) that any errors in the Service will be corrected.
+Accusoft reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with thirty (30) days notice.
+You expressly understand and agree that Accusoft is not liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, Content or other intangible losses (even if Accusoft has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitutes resulting from any data, Content, information or services purchased or obtained through or from the Service, or the loss thereof; (iii) unauthorized access to or alteration of your Content; (iv) statements or conduct of any other party on the Service; (v) termination of your account; or (vi) any other matter relating to the Service.
+Accusoft is not liable for any damages to you or to any other party arising from any modification, price change, suspension or discontinuance of the Service except as described in paragraph 17 below.
+You agree that any cause of action arising out of or related to the Service that you might otherwise have must commence within one (1) year after the cause of action accrues.  Otherwise, cause of action is permanently barred.
+Our aggregate liability for any damages to you or any other party will not exceed any fees you may have paid us during the twelve (12) month period prior to your notifying us of a claim, regardless of whether the claim is based on contract, tort, negligence, strict liability, products liability or otherwise. You acknowledge that we are unable to test the Service under all possible circumstances, that we cannot control the manner in which you and our other users use the Service, and that we have no control over Internet or other communications.
+You shall indemnify and hold Accusoft harmless and defend Accusoft from any claim, action, or proceeding that arises or results from any of your actions or omissions pertaining to your use of Service and from any of your actions that are in violation of this Agreement.
+You agree that if any provision of this Agreement is determined to be invalid by any court of final jurisdiction, then that provision shall be omitted and the remainder of this Agreement shall continue to be binding and enforceable. In addition you agree that that court is authorized to enforce any such provision of this Agreement to whatever lesser extent that court deems reasonable and appropriate rather than invalidating the entire provision.
+In the event of any lawsuit or other proceeding brought as a result of an actual or alleged breach of this Agreement, to enforce any provisions of this Agreement, or to enforce any intellectual property or other rights in or pertaining to the Service, you agree that the prevailing party shall be entitled to an award of its reasonable attorneys’ fees and costs, including the costs of any expert witnesses, incurred at all levels of proceedings.
+The failure of Accusoft to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision. This Agreement constitutes the entire agreement between you and Accusoft governing your use of the Service, superseding any prior agreements (including, but not limited to, any prior versions of this Agreement).
+This Agreement will be governed, construed, and enforced in accordance with the laws of the State of Florida, without regard to any conflicts of laws rules. Any action related to or arising under this Agreement will be brought solely in the state court sitting in Hillsborough County, Florida or in the federal courts in the Middle District of Florida, Tampa Division, and you consent to the exclusive jurisdiction and venue of said courts.
+This Agreement is the entire understanding of the parties concerning the subject matter of the Agreement and supersedes all prior communications and agreements whether oral or written relating to the subject matter of the Agreement. Only a writing signed by the parties may modify this Agreement. In the event of any modification in writing of this Agreement (an “Amendment”), all provisions of this Agreement survive except those provisions that are explicitly modified by the Amendment.
+You cannot assign or transfer this Agreement to another party under any circumstances.
+You agree that Accusoft may reference your use of the Service on its web site or in other marketing materials, including issuing a press release.
+Questions about this Agreement should be sent to sales@accusoft.com or you may call Accusoft Sales at 1-813-875-7575 x1.
+Cancellation and Termination
+
+You may cancel your Account at any time by logging into your Account at http://accounts.prizmcloud.com. Once logged in, you will see a list of all your active embedded viewer licenses. You may cancel your entire account or click the 'remove' button next to the individual embedded viewer you wish to cancel. This screen provides a simple, no questions asked cancellation process. A mail, email or phone request to cancel your account WILL NOT BE EFFECTIVE.
+If you cancel your entire Account all Content stored on Accusoft servers will be permanently deleted and all embedded viewer licenses will be terminated. Accusoft has no responsibility to you or to any other party to try to retrieve this Content for you when an Account is Terminated or Cancelled whether a free account or fee-based account.  Accusoft has no liability to you or to any other party for any damages arising from this permanent deletion when an Account is Terminated or Cancelled, whether a free account or fee-based account.
+If you have the “fee-based” version of the Service, and if you cancel the Service before the end of your current paid up period, your cancellation will take effect immediately, and you will not be charged again, but you will not be entitled to a refund for any unused period of time.
+Accusoft, in its sole discretion, has the right to suspend or terminate your Account and refuse you any and all current or future use of the Service, or any other Accusoft service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account and your access to your Account and to your Content. Accusoft reserves the right to refuse Service to anyone for any reason at any time. In addition, Accusoft may terminate this Agreement with respect to your Account at any time, in its sole discretion.
+If you cancel your Account, or if Accusoft terminates your Account for any reason, this Agreement is terminated. If the Agreement is terminated, your rights under this Agreement are terminated, but your obligations and agreements under “Other Conditions” above survive the termination of this Agreement.
