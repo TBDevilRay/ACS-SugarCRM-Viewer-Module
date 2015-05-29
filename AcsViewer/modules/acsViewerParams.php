@@ -1,6 +1,6 @@
 <?php
-define("ACS_API_URL", "https://dev-api.accusoft.com/PCCIS/V1/ViewingSession");
-define("VIEWER_URL", "http://dev-api.accusoft.com/v1/viewer");
+define("ACS_API_URL", "https://api.accusoft.com/PCCIS/V1/ViewingSession");
+define("VIEWER_URL", "http://api.accusoft.com/v1/viewer");
 define("VIEWER_WIDTH", "100%");
 define("VIEWER_HEIGHT", "100%");
 define("UPPER_TOOLBAR_COLOR", "757a7a");
